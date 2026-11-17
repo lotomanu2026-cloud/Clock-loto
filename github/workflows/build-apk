@@ -1,4 +1,4 @@
-name: Build Quest 3 Clock APK
+name: Build Quest  Clock APK
 
 on:
   workflow_dispatch:
